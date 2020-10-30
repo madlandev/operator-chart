@@ -3,20 +3,20 @@ entries:
   operator:
   - apiVersion: v1
     appVersion: "1.12"
-    created: "2020-10-30T12:14:45.314606611+02:00"
+    created: "2020-10-30T12:53:18.901231959+02:00"
     description: Operator chart
-    digest: 8250dcb16d8cc75013e5d5faffe132ef814b3a045ea551bda23f49ee3a0c97e0
+    digest: 6a3e40d792739ce1d4d14a75d0b3bf4ef4e24125e9f0669ca7b96080dd027a87
     name: operator
     urls:
     - https://madlandev.github.io/operator-chart/operator-1.12.tgz
     version: "1.12"
   - apiVersion: v1
     appVersion: "1.11"
-    created: "2020-10-30T12:14:45.314229666+02:00"
+    created: "2020-10-30T12:53:18.900887907+02:00"
     description: Operator chart
     digest: 169fb8abd3d68b0286f446905c73ae25be804dad282637cb32fb479a638f1758
     name: operator
     urls:
     - https://madlandev.github.io/operator-chart/operator-1.11.tgz
     version: "1.11"
-generated: "2020-10-30T12:14:45.313567774+02:00"
+generated: "2020-10-30T12:53:18.899744345+02:00"
